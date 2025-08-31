@@ -71,7 +71,7 @@ youtube automation ai/
 ├── app.py                  # Main Flask application
 ├── downloader.py          # Instagram reel downloader
 ├── uploader.py            # YouTube uploader
-├── ai_genrator.py         # AI content generation
+├── ai_generator.py         # AI content generation
 ├── client_secret.json     # YouTube API credentials
 ├── requirements.txt       # Python dependencies
 ├── .env                   # Environment variables

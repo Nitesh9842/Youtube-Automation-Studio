@@ -13,7 +13,7 @@ load_dotenv()
 # Import our modules
 from downloader import download_reel_with_audio
 from uploader import upload_to_youtube, check_authentication, authenticate_youtube, get_youtube_service, get_channel_info, logout_youtube
-from ai_genrator import AIMetadataGenerator  # Fixed import to use the correct class
+from ai_generator import AIMetadataGenerator  # Fixed import to use the correct class
 
 # Configure logging
 logging.basicConfig(level=logging.INFO)
